@@ -115,7 +115,7 @@ export default function BannerCarousel() {
         <div className="absolute bottom-0 right-0 flex z-10">
           <div className="bg-white p-4 shadow-md hover:shadow-lg transition-shadow text-center min-w-[120px]">
             <div className="text-3xl mb-2">👨‍⚕️</div>
-            <div className="font-semibold text-gray-900 text-xs">Find a Doctor</div>
+            <div className="font-semibold text-gray-900 text-xs">Find a Doctor ,</div>
           </div>
           <div className="bg-white  p-4 shadow-md hover:shadow-lg transition-shadow text-center min-w-[120px]">
             <div className="text-3xl mb-2">📅</div>
